@@ -1,0 +1,59 @@
+.box{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 25px;
+    padding: 20.7098px;
+    gap: 15.88px;
+    width: 396.25px;
+    height: 120.92px;
+    left: -4px;
+    top: 3053px;
+    background: #FFFFFF;
+    border: 0.690325px solid #000000;
+    border-radius: 6.90325px;
+}
+
+.para{
+width: 354.83px;
+height: 28px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4259px;
+line-height: 14px;
+/* Main Colors/Gray/4 */
+
+color: #292929;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+
+.customverticalpadding{
+    padding:150px 0 100px 0;
+}
+
+.hign{
+width: 383px;
+height: 60px;
+left: 12px;
+top: 3497px;
+padding-bottom: 100px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 61.5385px;
+line-height: 100%;
+/* or 62px */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+}

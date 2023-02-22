@@ -1,0 +1,35 @@
+.Heading{
+    width: 322.19px;
+    height: 40.53px;
+    left: 39.53px;
+    top: 3893.01px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 41.5724px;
+    line-height: 100%;
+    /* or 42px */
+    
+    letter-spacing: -0.05em;
+    
+    /* Main Colors/Gray/4 */
+    
+    color: #292929;
+}
+.para{
+    width: 318.67px;
+    height: 38px;
+    left: 43.73px;
+    top: 3946.12px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.5792px;
+    line-height: 19px;
+    
+    /* Main Colors/Gray/4 */
+    
+    color: #292929;
+}

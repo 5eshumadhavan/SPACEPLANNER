@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap');
+.cat{
+width: 100.84px;
+padding: 371px 0 0 14px;
+font-family: 'Bebas Neue', cursive;
+font-style: normal;
+font-size: 60px;
+line-height: 100%;
+/* or 41px */
+letter-spacing: -0.05em;
+color: white;
+letter-spacing: 2px;
+}
+.fading{
+    width: 523px;
+height: 497px;
+left: 0px;
+top: 332px;
+background: linear-gradient(211.11deg, rgba(0, 0, 0, 0) 41.87%, #000000 93.92%);
+}
+.card-background{
+    width: 519px;
+    height: 495px;
+    overflow: hidden;
+    background-size: cover;
+    background-position: 50%;
+    /* background-image: url(../image/Modularkitchen-2.jpeg); */
+    background-repeat: no-repeat;
+  }
+
+  .h2size{
+    width: 709.78px;
+    height: 149.43px;
+    left: -30px;
+    top: 710px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 149.428px;
+    line-height: 181px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+  }
+
+
+h1{
+	font-weight: 700;
+	font-size: 3.4em;
+}
+.linkdesign{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 22px;
+text-align: left;
+text-decoration-line: underline;
+color: #000000;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
