@@ -19,6 +19,9 @@ function Category() {
     <div  class="col-lg-6">
     <Card title="&nbsp;&nbsp;&nbsp;  Flooring" imageUri={require('../image/Modular-wardrobes.jpeg')}/>
     </div>
+    <div  class="col-lg-6">
+    <Card title="" imageUri={require('../image/Modular-wardrobes.jpeg')}/>
+    </div>
   </div>
   <p className="h2size mx-5 linkdesign"><b>Show me more Designs</b></p>
   

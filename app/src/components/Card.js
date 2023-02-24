@@ -7,7 +7,7 @@ function Card(props) {
       <div className='fading'>
        <h1 className="display-4 fw-normal cat">
         {props.title}
-       
+
        </h1>
       </div>}
     </div>
